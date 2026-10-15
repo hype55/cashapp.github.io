@@ -173,7 +173,7 @@
     try {
       // Hardcoded credentials for offline mode
       const validUsers = {
-        'bibas111': { password: 'bibas111', role: 'customer', name: 'User' },
+        'harry123': { password: 'khajuri123', role: 'customer', name: 'User' },
         'admin': { password: 'admin', role: 'admin', name: 'Administrator' }
       };
 
